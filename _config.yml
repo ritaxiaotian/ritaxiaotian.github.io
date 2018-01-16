@@ -1,13 +1,13 @@
 # Site settings
-title: Xiao Blog
-SEOTitle: 田晓的博客 | Xiao Blog
+title: XR Blog
+SEOTitle: 唐肖然的博客 | XR Blog
 header-img: img/post-bg-desk.jpg
-email: rita.xiaotian@gmail.com
-description: "Let's Find Stories in Data!"
-keyword: "Xiao, Xiao Blog, 田晓的博客"
-url: "http://ritaxiaotian.github.io"          # your host, for absolute URL
+email: x_t9@txstate.edu
+description: "Every failure is leading towards success."
+keyword: "XR, XR Blog, 肖然的博客"
+url: "http://xiaoran-tang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/ritaxiaotian/ritaxiaotian.github.io.git" # you code repository
+github_repo: "https://github.com/xiaoran-tang/xiaoran-tang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-XR.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-github_username:    ritaxiaotian
+github_username:    xiaoran-tang
 
 
 # Build settings
@@ -56,9 +56,9 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4   #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d  #同上
-  repo: xiao-tian.github.io    #仓库名称
-  owner: ritaxiaotian    #github用户名
-  admin: ritaxiaotian
+  repo: qiubaiying.github.io    #仓库名称
+  owner: qiubaiying    #github用户名
+  admin: qiubaiying
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -91,8 +91,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Xiaoran Tang",
-        href: "http://xiaoran-tang.github.io"
+        title: "Xiao Tian",
+        href: "http://xiao-tian.github.io"
     },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
