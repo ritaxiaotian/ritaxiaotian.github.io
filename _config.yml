@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: rita.xiaotian@gmail.com
 description: "Let's Find Stories in Data!"
 keyword: "Xiao, Xiao Blog, 田晓的博客"
-url: "http://xiao-tian.github.io"          # your host, for absolute URL
+url: "http://ritaxiaotian.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/ritaxiaotian/xiao-tian.github.io.git" # you code repository
+github_repo: "https://github.com/ritaxiaotian/ritaxiaotian.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
